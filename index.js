@@ -18,3 +18,5 @@ function checkScore() {
     }, 2000);
 }
 
+console.log(num1, num2);
+
