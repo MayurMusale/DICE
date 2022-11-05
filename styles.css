@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    padding: 0%;
+}
+
+.title {
+    color: #8EC3B0;
+    text-align: center;
+    padding-top: 3%;
+    font-size: 6rem;
+    font-family: 'Lobster', cursive;
+}
+
+.playerId {
+    color: #8EC3B0;
+    padding-bottom: 30px;
+    font-size: 3rem;
+    font-family: 'Lobster', cursive;
+}
+
+.playerDiv {
+    padding-top: 5%;
+}
+
+.Winmsg1,
+.Winmsg2 {
+    color: #8EC3B0;
+    font-family: 'Lobster', cursive;
+}
+
+.tied {
+    text-align: center;
+    color: #8EC3B0;
+}
+
+.btndiv {
+    text-align: center;
+    position: relative;
+    padding-top: 3%;
+}
